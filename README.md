@@ -1,4 +1,6 @@
 This repository is about Integrating LTI with Canvas API calls.
+Note: you can create virtual environment and install all the necessary dependencies using
+pip install -r requirements.txt
 Steps to be followed:
 1. create a new project
 2. Install Django, sslserver : pip install django and pip install django-sslserver

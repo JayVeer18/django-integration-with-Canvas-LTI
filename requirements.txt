@@ -1,0 +1,4 @@
+django
+django-sslserver
+canvasapi
+python-dotenv
